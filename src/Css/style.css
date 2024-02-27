@@ -34,6 +34,7 @@ body {
   color: var(--color-secondary);
   font-weight: 400;
   margin: 0 10px;
+  font-size: 15px;
   cursor: pointer;
 }
 .Navbar .nav-link:hover {
@@ -51,4 +52,20 @@ body {
 }
 .Navbar .show .nav-link:hover {
   color: var(--color-secondary) !important;
+}
+
+.Banner {
+  background-color: var(--color-secondary);
+  border-radius: 30px;
+  margin: 20px 0;
+  padding: 0 200px;
+}
+.Banner h2, .Banner p {
+  color: var(--color-white);
+}
+.Banner h2 {
+  font-weight: 600;
+}
+.Banner img {
+  width: 100%;
 }/*# sourceMappingURL=style.css.map */
