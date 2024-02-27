@@ -2,6 +2,7 @@
     --color-primary: #FC552F;
     --color-secondary: #07070C;
     --color-white: #FFFF;
+    --color-primary-light: #FFFBFB;
 }
 
 * {
@@ -26,48 +27,93 @@ body {
     font-size: 0.9rem;
 }
 
-.Navbar{
-    .navbar-brand{
+.Navbar {
+    .navbar-brand {
         color: var(--color-primary);
         font-weight: 600;
     }
-    .nav-link{
+
+    .nav-link {
         color: var(--color-secondary);
         font-weight: 400;
         margin: 0 10px;
         font-size: 15px;
         cursor: pointer;
-        &:hover{
+
+        &:hover {
             border-bottom: 2px solid var(--color-primary);
         }
     }
-    .show{
+
+    .show {
         background-color: var(--color-primary);
         justify-content: center;
         text-align: center;
         color: var(--color-white);
         padding: 10PX;
-        .nav-link{
+
+        .nav-link {
             color: var(--color-white) !important;
-            &:hover{
+
+            &:hover {
                 color: var(--color-secondary) !important;
             }
         }
     }
 }
 
-.Banner{
+.Banner {
     background-color: var(--color-secondary);
     border-radius: 30px;
     margin: 20px 0;
-    padding: 0 200px;
-    h2,p{
+
+    .text {
+        width: 70%;
+    }
+
+    // padding: 0 200px;
+    h2,
+    p {
         color: var(--color-white);
     }
-    h2{
+
+    h2 {
         font-weight: 600;
     }
-    img{
-        width: 100%;
+
+    img {
+        width: 60%;
+    }
+}
+
+.Features {
+    img {
+        width: 16%;
+        margin-bottom: 10px;
+    }
+    .header{
+        width: 60%;
+    }
+}
+
+.Experience{
+    background-color: var(--color-primary-light);
+    .img{
+        img{
+        width: 90%;
+        } 
+    }
+    .each{
+        .set{
+            display: flex;
+            gap: 10px;
+            p{
+                color: gray;
+            }
+            img{
+                width: 7%;
+                height: 7%;
+            }
+        }
     }
 }

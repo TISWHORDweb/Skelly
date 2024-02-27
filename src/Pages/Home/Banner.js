@@ -5,7 +5,7 @@ function Banner() {
   return (
     <div>
         <div className="container">
-            <div className="Banner">
+            <div className="Banner mb-5">
                 <center>
                 <div className="text mb-4 pt-5">
                     <h2>Exploring ML Algorithms for Healthcare Anomaly Detection</h2>

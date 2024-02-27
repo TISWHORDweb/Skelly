@@ -82,3 +82,15 @@
   box-shadow: 0 4px 15px 0 rgba(229, 66, 10, 0.75);
 }
 
+
+.f10{
+  font-size: 10px;
+}
+
+.f15{
+  font-size: 15px;
+}
+
+.f20{
+  font-size: 20px !important; 
+}
