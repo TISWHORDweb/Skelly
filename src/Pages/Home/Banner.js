@@ -11,8 +11,8 @@ function Banner() {
                     <h2>Exploring ML Algorithms for Healthcare Anomaly Detection</h2>
                     <p>In this exploration, we delve into machine learning (ML) algorithms tailored for anomaly detection within healthcare systems. By leveraging advanced ML techniques, we aim to develop robust models capable of identifying irregular patterns or outliers in medical data. These algorithms play a crucial role in enhancing healthcare analytics, enabling early detection of anomalies that may signify critical health issues or abnormalities in patient conditions.</p>
                     <div className="btns">
-                    <button class="bn632-hover bn21" type="submit">Get Started Free</button>
-                    <button class="bn632-hover bn19" type="submit">Explore Feature</button>
+                    <button class="bn632-hover bn21" type="">Get Started Free</button>
+                    <button class="bn632-hover bn19" type="">Explore Feature</button>
                     </div>
                 </div>
                 <img src={BannerImg} alt="" />

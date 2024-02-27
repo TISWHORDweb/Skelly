@@ -98,4 +98,24 @@ body {
 .Experience .each .set img {
   width: 7%;
   height: 7%;
+}
+
+.Discover img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.Discover .each {
+  border: 1px solid #efefef;
+  padding: 16px;
+  border-radius: 30px;
+}
+.Discover span {
+  color: var(--color-primary);
+}
+.Discover p {
+  color: gray;
+}
+.Discover .down {
+  display: flex;
+  align-items: center;
 }/*# sourceMappingURL=style.css.map */

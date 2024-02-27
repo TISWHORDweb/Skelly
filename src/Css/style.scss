@@ -117,3 +117,25 @@ body {
         }
     }
 }
+
+.Discover{
+    img{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .each{
+        border: 1px solid #efefef;
+        padding: 16px;
+        border-radius: 30px;
+    }
+    span{
+       color: var(--color-primary);
+    }
+    p{
+        color: gray;
+     }
+    .down{
+        display: flex;
+        align-items: center;
+    }
+}

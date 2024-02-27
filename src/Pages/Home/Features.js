@@ -10,7 +10,7 @@ function Features() {
                 <div className="Features">
                     <center >
                         <div className="header">
-                            <h2>More Features</h2>
+                            <h1>More Features</h1>
                             <p className='f20'>These are a few of the key features of AITool that distinguishit from other AI platforms</p>
                         </div>
                     </center>
