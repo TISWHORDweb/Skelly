@@ -118,4 +118,13 @@ body {
 .Discover .down {
   display: flex;
   align-items: center;
+}
+
+.Customers .each {
+  border: 1px solid #efefef;
+  padding: 16px;
+  border-radius: 30px;
+}
+.Customers h1 span {
+  color: var(--color-primary);
 }/*# sourceMappingURL=style.css.map */

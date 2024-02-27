@@ -139,3 +139,16 @@ body {
         align-items: center;
     }
 }
+
+.Customers{
+    .each{
+        border: 1px solid #efefef;
+        padding: 16px;
+        border-radius: 30px;
+    }
+    h1{
+        span{
+            color: var(--color-primary);
+        }
+    }
+}
