@@ -4,7 +4,7 @@ function Customers() {
     return (
         <div>
             <div className="container">
-                <div className="Customers pt-5 mt-5">
+                <div className="Customers pt-5 mb-5">
                    <center> <h1>Why customers <span>love us</span></h1></center>
                     <div className="row mt-5">
                         <div className="col-md-4 mb-3">
