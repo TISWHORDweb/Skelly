@@ -25,7 +25,7 @@ function Navbar() {
                   <span class="nav-link" href="#">Contact</span>
                 </li>
               </ul>
-              <div className="">
+              <div className="animate__animated animate__fadeInRight">
                 <button class="bn632-hover bn21" type="submit">Get Started</button>
               </div>
             </div>

@@ -6,6 +6,7 @@ import Experience from './Experience'
 import Discover from './Discover'
 import Customers from '../../Components/Customers'
 import ContactCard from '../../Components/ContactCard'
+import Footer from '../../Components/Footer'
 
 function Home() {
   return (
@@ -17,6 +18,7 @@ function Home() {
         <Discover />
         <Customers />
         <ContactCard />
+        <Footer />
     </div>
   )
 }

@@ -7,7 +7,7 @@ function Features() {
     return (
         <div>
             <div className="container">
-                <div className="Features">
+                <div className="Features animate__animated animate__backInUp">
                     <center >
                         <div className="header">
                             <h1>More Features</h1>
