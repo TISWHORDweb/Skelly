@@ -11,7 +11,7 @@ function Features() {
                     <center >
                         <div className="header">
                             <h1>More Features</h1>
-                            <p className='f20'>These are a few of the key features of AITool that distinguishit from other AI platforms</p>
+                            <p className='f15'>These are a few of the key features of AITool that distinguishit from other AI platforms</p>
                         </div>
                     </center>
                     <div className="each mt-5">

@@ -15,7 +15,7 @@ function Discover() {
                         </div>
                     </center>
                     <div className="row">
-                        <div className="col-md-4">
+                        <div className="col-md-4 mb-3">
                             <div className="each">
                                 <img src={Img1} alt="" />
                                 <span className='pt-4 pb-4'>2 Minutes Ago</span>
@@ -27,7 +27,7 @@ function Discover() {
                                 </button>
                             </div>
                         </div>
-                        <div className="col-md-4">
+                        <div className="col-md-4 mb-3">
                             <div className="each">
                                 <img src={Img2} alt="" />
                                 <span className='pt-4 pb-4'>2 Minutes Ago</span>
@@ -39,7 +39,7 @@ function Discover() {
                                 </button>
                             </div>
                         </div>
-                        <div className="col-md-4">
+                        <div className="col-md-4 mb-3">
                             <div className="each">
                                 <img src={Img3} alt="" />
                                 <span className='pt-4 pb-4'>2 Minutes Ago</span>

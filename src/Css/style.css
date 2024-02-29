@@ -61,7 +61,7 @@ body {
   margin: 20px 0;
 }
 .Banner .text {
-  width: 70%;
+  width: 80%;
 }
 .Banner h2,
 .Banner p {
@@ -71,15 +71,12 @@ body {
   font-weight: 600;
 }
 .Banner img {
-  width: 60%;
+  width: 50%;
 }
 
 .Features img {
   width: 16%;
   margin-bottom: 10px;
-}
-.Features .header {
-  width: 60%;
 }
 
 .Experience {
